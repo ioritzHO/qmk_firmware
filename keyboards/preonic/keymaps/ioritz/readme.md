@@ -1,4 +1,4 @@
-# Layout for Preonic Rev.3 By Ioritz herreros Osa
+# Layout for Preonic Rev.3 By Ioritz Herreros Osa
 
 Modified version of default layout.
 * Uses custom keymap file for defining spanish keycodes for all keys.
